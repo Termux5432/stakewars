@@ -3,7 +3,8 @@
 
 Cek Spesifikasi (Supported/Not Supported)
 
-    ```bash
+    ```
+    bash
     lscpu | grep -P '(?=.*avx )(?=.*sse4.2 )(?=.*cx16 )(?=.*popcnt )' > /dev/null \
     && echo "Supported" \
     || echo "Not supported"
@@ -223,10 +224,7 @@ Copy Link untuk Autorisasi ke Browser kalian
 
 
 7Klik Next dan Beri akses ke `NEAR-CLI` dengan klik `connect`
-
-
-![Screenshot_27](https://user-images.githubusercontent.com/35837931/180382741-51def2a8-53c7-401b-8541-1810c7cd5392.png)
-    
+  
 Lalu masukkan `Account ID` kalian dan klik confirm (contoh : termux.shardnet.near). `termux` bisa diganti dengan nama wallet kalian.
 
 Setelah Memberi Akses, Kalian akan melihat gambar berikut.
@@ -275,9 +273,9 @@ Simpan `node_key.json` dan `validator_key.json` file kamu ke PC kalian agar kede
     
 - Copy isi dari file `validator_key.json` dan simpan kedalam notepad
 
-        ```bash
-        nano ~/.near/validator_key.json
-        ```
+ ```bash
+nano ~/.near/validator_key.json
+```
         
 
 # Lanjut ke Challenge 003
