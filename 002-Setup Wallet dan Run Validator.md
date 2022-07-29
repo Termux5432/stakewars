@@ -221,7 +221,7 @@ Copy Link untuk Autorisasi ke Browser kalian
 ![Screenshot_21](https://user-images.githubusercontent.com/35837931/180382353-112ce348-3dec-4797-9c90-f61c366049bb.png)
 
 
-7Klik Next dan Beri akses ke `NEAR-CLI` dengan klik `connect`
+Klik Next dan Beri akses ke `NEAR-CLI` dengan klik `connect`
   
 Lalu masukkan `Account ID` kalian dan klik confirm (contoh : termux.shardnet.near). `termux` bisa diganti dengan nama wallet kalian.
 
@@ -235,7 +235,6 @@ Jangan khawatir, jika sudah muncul gambar tersebut, maka kalian sudah memberi ak
     
 Kembali ke VPS dan masukkan `Account ID` yang sudah kalian buat tadi dan tekan enter
 
-![Screenshot_31](https://user-images.githubusercontent.com/35837931/180383275-81e12280-348a-4e9f-b3fe-9e57f403795d.png)
 
 Generate Key untuk `validator_key.json`
     
