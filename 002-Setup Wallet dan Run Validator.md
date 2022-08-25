@@ -277,6 +277,6 @@ nano ~/.near/validator_key.json
 
 # Lanjut ke Challenge 003
 
-[Mounting Staking Pool]()
+[Mounting Staking Pool](https://github.com/Termux5432/stakewars/blob/main/003-Mounting%20Staking%20Pool.md)
 
 
