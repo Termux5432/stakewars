@@ -75,7 +75,8 @@ Checkout Commit
 ```bash
 git checkout 0d7f272afabc00f4a076b1c89a70ffc62466efe9
 ```
-  
+[New commit] ( https://github.com/near/stakewars-iii/blob/main/commit.md )  
+
 Compile `nearcore` Binary
 
 Pastikan kalian posisinya masih didalam folder `nearcore`.
