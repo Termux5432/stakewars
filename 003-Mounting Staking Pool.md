@@ -137,6 +137,6 @@ near call ??.factory.shardnet.near resume_staking '{}' --accountId ??.shardnet.n
 
 ## Lanjut ke Challenge 004
 
-[Membuat Monitoring Node Status]()
+[Membuat Monitoring Node Status](https://github.com/Termux5432/stakewars/blob/main/004-Membuat%20Monitoring%20Node%20Status.md)
 
 
